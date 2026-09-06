@@ -14,7 +14,7 @@
 
 ## Live Application
 
- **[netflix-movie-recommendation-system.streamlit.app]([https://netflix-movie-recommendation-system.streamlit.app](https://netflix-movie-recommendation-system-project-emydybmb2quxvuo85v.streamlit.app/))**
+**[netflix-movie-recommendation-system-project.streamlit.app](https://netflix-movie-recommendation-system-project-emydybmb2quxvuo85v.streamlit.app/)**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Algorithm-TF--IDF_Vectorization-blue?style=for-the-badge" />
